@@ -1,7 +1,5 @@
 package boardgame;
 
-import chass.pieces.Rook;
-
 public class Board {
 	private int rows;
 	private int columns;
